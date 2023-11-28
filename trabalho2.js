@@ -705,7 +705,7 @@ if (reversed == null) { reversed = false; }
 		// Check if the game has been initialized
 		if (!root.gameInitialized) {
 		    let coinstxt = 0;
-		    let morecoins = 100000;
+		    let morecoins = 1;
 		    let numone = 0;
 		    let numtwo = 0;
 		    let numthree = 0;
@@ -1064,9 +1064,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/trabalho2_atlas_1.png?1701179601397", id:"trabalho2_atlas_1"},
-		{src:"images/trabalho2_atlas_2.png?1701179601397", id:"trabalho2_atlas_2"},
-		{src:"sounds/click.mp3?1701179601434", id:"click"}
+		{src:"images/trabalho2_atlas_1.png?1701179724840", id:"trabalho2_atlas_1"},
+		{src:"images/trabalho2_atlas_2.png?1701179724841", id:"trabalho2_atlas_2"},
+		{src:"sounds/click.mp3?1701179724880", id:"click"}
 	],
 	preloads: []
 };
